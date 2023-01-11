@@ -15,7 +15,7 @@ Build a Artificial Neural Network with an Precision and Accuracy of 85% &amp; 80
 
 I start by cleaning and exploring our data. Tasks during this section include:
 
- 1. Explore data 
+ 1. Data Exploration
  
  2. check Null values
  
